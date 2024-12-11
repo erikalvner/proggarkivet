@@ -5,11 +5,9 @@ title = 'Dan Berglund - En järnarbetares visor (1975)'
 tags = [
     "1975",
     "visor",
-    "progg",
     "dan berglund",
     "kommunism",
     "politik",
-    "arbetare",
     "göteborg"
 ]
 categories = [
