@@ -1,7 +1,7 @@
 +++
 date = '2024-12-11'
 draft = false
-title = 'Olle Bäver - Castor Fiber (1977)
+title = 'Olle Bäver - Castor Fiber (1977)'
 tags = [
     "1977",
     "jazz",
