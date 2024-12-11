@@ -1,4 +1,4 @@
-name = "Proggblogg"
+name = "Proggarkivet"
 license = "MIT"
 licenselink = "https://github.com/weastur/hugo-texify2/blob/master/LICENSE"
 description = "A minimal, latex-style hugo theme for personal blogging"
