@@ -37,13 +37,13 @@ customCSS = []
 customJS = []
 dateFormat = "January 2, 2006"
 emphasisWithDots = true
-since = "2023"
+since = "2024"
 toc = false
-showWordCount = true
-showReadingTime = true
+showWordCount = false
+showReadingTime = false
 rootFontSize = "120%"
-math = true
-enableDuckDuckGoSearchBox = true
+math = false
+enableDuckDuckGoSearchBox = false
 numberedSubtitles = false
 
 [params.commentEngine]
