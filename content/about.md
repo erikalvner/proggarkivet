@@ -6,6 +6,9 @@ aliases = ["about-us", "about-texify2", "contact"]
 author = "kallmoraberget"
 +++
 
+{{< figure src="/images/logo.jpg" position="right" >}}
+
+
 ## Albumarkiv
 En blogg tillägnad de många fantastiska progg-album som är svåra att få tag på i digital form eller kanske bara ligger upplagda på YouTube som en enda lång ljudfil utan metadata.
 
