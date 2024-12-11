@@ -20,6 +20,7 @@ categories = [
 
 {{< figure src="/db-järnarbetare/cover.jpg" position="right" >}}
 
+<br>
 
 ### Spårlista
 
