@@ -1,5 +1,5 @@
 +++
-date = '2024-12-11'
+date = '2024-12-11T18:05:35+02:00'
 draft = false
 title = 'Budkaveln - Strejk (1975)'
 tags = [

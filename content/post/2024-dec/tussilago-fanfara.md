@@ -1,5 +1,5 @@
 +++
-date = '2024-12-11'
+date = '2024-12-11T15:05:35+02:00'
 draft = false
 title = 'Anna Själv Tredje - Tussilago Fanfara (1977)'
 tags = [

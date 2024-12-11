@@ -1,5 +1,5 @@
 +++
-date = '2024-12-10'
+date = '2024-12-10T13:05:35+02:00'
 draft = false
 title = 'Dan Berglund - En järnarbetares visor (1975)'
 tags = [
