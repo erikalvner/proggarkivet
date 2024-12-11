@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proggarkivet</title>
-    <link>//localhost:44281/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Proggarkivet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>us-en</language>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:44281/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anna Själv Tredje - Tussilago Fanfara (1977)</title>
-      <link>//localhost:44281/post/tussilago-fanfara/</link>
+      <link>//localhost:1313/post/2024-dec/tussilago-fanfara/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:44281/post/tussilago-fanfara/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:44281/ast-tussilago/anna.jpg&#34;&gt;
+      <guid>//localhost:1313/post/2024-dec/tussilago-fanfara/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:1313/ast-tussilago/anna.jpg&#34;&gt;
 &lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
@@ -37,12 +37,52 @@
     </item>
     
     <item>
-      <title>Olle Bäver - Castor Fiber (1977)</title>
-      <link>//localhost:44281/post/castorfiber/</link>
+      <title>Budkaveln - Strejk (1975)</title>
+      <link>//localhost:1313/post/2024-dec/bk-strejkvisor/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:44281/post/castorfiber/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:44281/ob-castorfiber/cover.jpg&#34;&gt;
+      <guid>//localhost:1313/post/2024-dec/bk-strejkvisor/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;bk-strejkvisor/cover.jpg&#34;&gt;
+&lt;/figure&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;spårlista&#34;&gt;Spårlista&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h5 id=&#34;sida-a&#34;&gt;&lt;strong&gt;Sida A&lt;/strong&gt;&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;Lump-Lenavalsen&lt;/li&gt;
+&lt;li&gt;Aprilvisa&lt;/li&gt;
+&lt;li&gt;Murarhantlangerskornas strejk&lt;/li&gt;
+&lt;li&gt;Kravallvisa från Mölndal&lt;/li&gt;
+&lt;li&gt;Malmö visa&lt;/li&gt;
+&lt;li&gt;Renhållningsstrejken&lt;/li&gt;
+&lt;li&gt;Studentkonserten i Stockholm&lt;/li&gt;
+&lt;li&gt;Ny studentsång&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;sida-b&#34;&gt;&lt;strong&gt;Sida B&lt;/strong&gt;&lt;/h5&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;Norbergsstrejken&lt;/li&gt;
+&lt;li&gt;Upprorsfanan i Sundsvall&lt;/li&gt;
+&lt;li&gt;Lockout&lt;/li&gt;
+&lt;li&gt;Den stora bagarstrejken&lt;/li&gt;
+&lt;li&gt;Bagarelockouten&lt;/li&gt;
+&lt;li&gt;Hjälpgummestrejken i Skövde&lt;/li&gt;
+&lt;li&gt;Den svenska marseljäsen&lt;/li&gt;
+&lt;li&gt;Arbetsmannen&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;nyinspelade-strejkvisor&#34;&gt;Nyinspelade strejkvisor&lt;/h3&gt;
+&lt;p&gt;Nyinspelat och nyinspelat&amp;hellip; Inte direkt. Albumet släpptes 1975 på Oktober förlag, som tillhörde Sveriges kommunistiska parti (inriktning maoism).&lt;/p&gt;
+&lt;p&gt;Albumet, som annars varit svårt att få tag på finns nu rippat direkt från mobilen. Det kan förekomma knaster och lite brus. Om du klickar på länken nedan kommer du till en nedladdningssida där albumet, med korrekt metadata finns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Olle Bäver - Castor Fiber (1977)</title>
+      <link>//localhost:1313/post/2024-dec/castorfiber/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/post/2024-dec/castorfiber/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:1313/ob-castorfiber/cover.jpg&#34;&gt;
 &lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
@@ -75,11 +115,11 @@
     
     <item>
       <title>Dan Berglund - En järnarbetares visor (1975)</title>
-      <link>//localhost:44281/post/j%C3%A4rnarbetare/</link>
+      <link>//localhost:1313/post/2024-dec/j%C3%A4rnarbetare/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:44281/post/j%C3%A4rnarbetare/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:44281/db-j%C3%A4rnarbetare/cover.jpg&#34;&gt;
+      <guid>//localhost:1313/post/2024-dec/j%C3%A4rnarbetare/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:1313/db-j%C3%A4rnarbetare/cover.jpg&#34;&gt;
 &lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;

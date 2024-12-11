@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Experimentell on Proggarkivet</title>
-    <link>//localhost:44281/tags/experimentell/</link>
+    <link>//localhost:1313/tags/experimentell/</link>
     <description>Recent content in Experimentell on Proggarkivet</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>us-en</language>
-    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:44281/tags/experimentell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/experimentell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Anna Själv Tredje - Tussilago Fanfara (1977)</title>
-      <link>//localhost:44281/post/tussilago-fanfara/</link>
+      <link>//localhost:1313/post/2024-dec/tussilago-fanfara/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:44281/post/tussilago-fanfara/</guid>
-      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:44281/ast-tussilago/anna.jpg&#34;&gt;
+      <guid>//localhost:1313/post/2024-dec/tussilago-fanfara/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;//localhost:1313/ast-tussilago/anna.jpg&#34;&gt;
 &lt;/figure&gt;
 
 &lt;!-- raw HTML omitted --&gt;
