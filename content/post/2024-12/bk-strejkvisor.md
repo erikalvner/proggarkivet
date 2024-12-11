@@ -49,8 +49,8 @@ categories = [
 
 ### Nyinspelade strejkvisor
 
-Nyinspelat och nyinspelat... Inte direkt. Albumet släpptes 1975 på Oktober förlag, som tillhörde Sveriges kommunistiska parti (inriktning maoism). 
+Nyinspelat och nyinspelat... Inte direkt. Albumet släpptes 1975 på Oktober förlag, som tillhörde Sveriges kommunistiska parti (maoistisk utbrytargrupp). 
 
-Albumet, som annars varit svårt att få tag på finns nu rippat direkt från mobilen. Det kan förekomma knaster och lite brus. Om du klickar på länken nedan kommer du till en nedladdningssida där albumet, med korrekt metadata finns.
+Albumet, som annars varit svårt att få tag på finns nu rippat direkt från vinylskivan. Det kan förekomma knaster och lite brus. Om du klickar på länken nedan kommer du till en nedladdningssida där albumet, med korrekt metadata finns.
 
 >Klicka [här](https://mega.nz/file/C2gmgBpT#URYeGXlMjYYh19f4lM1pcifYTXdgXIvXmJWDK99kXCE) för att komma till nedladdningssidan. Lösenordet till zip-filen är **"kallmoraberget"**.
